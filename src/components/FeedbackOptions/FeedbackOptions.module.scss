@@ -1,0 +1,13 @@
+.button {
+  padding: 5px 0;
+  font-size: 0.5em;
+  min-width: 100px;
+  margin-left: 20px;
+  border-radius: 5px;
+  border-color: transparent;
+  font-weight: 500;
+  &:hover {
+    background-color: rgba(28, 98, 189, 0.39);
+    font-weight: 600;
+  }
+}
